@@ -119,7 +119,7 @@ role: $inherited.types.copy-regular
 \;; record variable : https://fastn.com/common-attributes/#background-image-ftd-background-image
 
 
--- ftd.background-image bg-image:
+\-- ftd.background-image bg-image:
 src: $assets.files.assets.unsplash.jpg
 repeat: no-repeat
 position: center
