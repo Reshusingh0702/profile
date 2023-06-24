@@ -5,7 +5,6 @@ width: fill-container
 height: fill-container
 align-content: center
 types: $opensans.types
-background.image: $bg-image
 
 -- ftd.column:
 width.fixed.px: 832
